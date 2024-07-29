@@ -18,7 +18,7 @@ I'm am dedicated to building robust and secure solutions that meet the evolving 
 - <b>Distributed Systems</b>
 - <b>Information Security</b>
 - <b>Information Privacy</b>
-- <b>Artificial intelligence</b>
+- <b>Artificial Intelligence</b>
 - <b>Open Source Contribution</b>
 - <b>Technology Startups</b>
 

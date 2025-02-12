@@ -5,10 +5,11 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallace-stev&theme=github)
 
-### 🧔🏽‍♂️ My Bio
+### 🧔🏽‍♂️🤯 My Bio
 
-An avid programmer & software engineer with experience in managing development teams, implementing, and supporting Value-Added-Services (VAS) solutions including USSD applications, payment systems and SMS gateways. Dedicated to building robust and secure solutions that meet the evolving needs of the industry, and leveraging technology to address complex challenges.
+An avid programmer & software engineer with experience in managing development teams, implementing, and supporting payment systems, USSD applications and SMS gateways. Dedicated to building robust and secure solutions that meet the evolving needs of the industry, and leveraging technology to address complex challenges. My interests include distributed systems, information security, usable privacy, machine learning, responsible AI and open source technologies.
 
+<!--
 ### 🤯 My Interests
 
 - <b>Distributed Systems</b>
@@ -16,21 +17,24 @@ An avid programmer & software engineer with experience in managing development t
 - <b>Information Privacy</b>
 - <b>Artificial Intelligence</b>
 - <b>Open Source Contribution</b>
-<!-- - <b>Technology Startups</b> -->
+- <b>Technology Startups</b> 
+-->
 
-### 📫 My Socials:
+### 📫 My Digital Self:
 Let's link-up!
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/wallace_stev)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://tz.linkedin.com/in/wallace-stev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wallace_stev)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Wallace-Msagusa)
-
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/wallace-stev)
-[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/wallace-stev)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/wallace_stev)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7212370/wallace-stev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/wallace-stev/)
+
+<!-- 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Wallace-Msagusa)
+[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/wallace-stev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/wallace-stev/) 
+-->
 
 ### 🛠️ Tools I Use
 
@@ -111,12 +115,17 @@ Let's link-up!
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 
 <!-- ### My Stats
 

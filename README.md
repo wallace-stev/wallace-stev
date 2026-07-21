@@ -4,7 +4,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallace-stev&theme=github)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=wallace-stev&layout=compact&hide_progress=true&langs_count=6&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=wallace-stev&layout=compact&hide_progress=true&langs_count=6&theme=shadow_blue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=wallace-stev&layout=compact&hide_progress=true&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=wallace-stev&layout=compact&hide_progress=true&langs_count=6)
 
 ### 🧔🏽‍♂️🤯 My Bio
 
